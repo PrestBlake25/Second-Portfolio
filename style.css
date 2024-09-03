@@ -212,7 +212,7 @@ span{
 }
 @media(max-width: 1000px){
     .home{
-        gap:4rem;
+        gap: 4rem;
     }
 }
 @media(max-width: 995px){
